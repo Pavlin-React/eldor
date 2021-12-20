@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097701750087",
+    "project_id": "eldor-bf40f",
+    "storage_bucket": "eldor-bf40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097701750087:android:d70b41c7a2306e09fa0862",
+        "android_client_info": {
+          "package_name": "com.eldor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097701750087-t2flcbl0q8jreehl3d0epsnfo953m4r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFCyGCxouCuSC81ozO45wPon_hKPi2yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097701750087-t2flcbl0q8jreehl3d0epsnfo953m4r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
